@@ -1,8 +1,10 @@
 ##PS2 Form Helper for BITS Pilani
 
-"""
+```
 DISCLAIMER: By using this script, you are taking full responsibility of the consequences. This script is intended for general use and no warranty is implied for suitability to any given task. I hold no responsibility for your setup or any damage done while using/installing/modifing this script.
-"""
+```
+
+
 0. Firstly drag [This Link][script1] to your cookmarks bar
 1. sort the given csv according to your preferences.
 2. Login and go to the preferences page
