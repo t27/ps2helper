@@ -1,8 +1,17 @@
 ##PS2 Form Helper for BITS Pilani
 
+This a tool which will help you fill the PS2 Preferences on the new BITS Pilani PSMS page. You need to sort the PS stations in Excel(Or any other spreadsheet software which supports csv files). You'll need to use the given csv file which has Station IDs,Names, Stipend, Location,Disciplines etc as columns. Once sorted follow the steps below. The link to the csv file is also given below. Also I recommend using Chrome.
+
+This has been tested to work fine on Chrome in Windows and Ubuntu.
+
+Built with contributions from Apoorv Umang.
+
+
 ```
 DISCLAIMER:
-By using this script, you are taking full responsibility of the consequences. This script is intended for general use and no warranty is implied for suitability to any given task. I hold no responsibility for your setup or any damage done while using/installing/modifing this script.
+By using this script, you are taking full responsibility of the consequences.
+This script is intended for general use and no warranty is implied for suitability to any given task.
+I hold no responsibility for your setup or any damage done while using/installing/modifing this script.
 You MUST cross check your preferences manually after using this script to ensure it is correct.  
 ```
 
@@ -16,11 +25,12 @@ javascript:(function(){function r(e,t,n){$.ajax({type:"POST",url:"StudentStation
 ```
 
 
-1. Sort the given csv according to your preferences.
+1. Sort the [Problem Bank CSV](https://raw.githubusercontent.com/t27/ps2helper/master/ProbBankWithStationIDs.csv) according to your preferences in a software of your choice(Excel).
 2. Login and go to the preferences page
 3. Once the page loads completely, click on the previously created book mark in your bookmarks bar
 4. You should see a text box and a button appear below the Save preferences button.
 5. Now copy the station id column from your sorted csv list and paste it into the text box. *Ensure that you dont copy the column title, and that your cursor ends on the last number and **NOT on a new line** *
-6. Now click on the Submit button, Also all your acco fields will be ticked for you!
-7. You'll get a popup confirming the submission.
-8. Now refresh your preferences page and see the result!
+6. Each Station ID should be on a new line(default nature of a copy from excel)
+7. Now click on the Submit button, all your acco fields will be ticked for you!
+8. You'll get a popup confirming the submission.
+9. Now refresh your preferences page and see the result!
