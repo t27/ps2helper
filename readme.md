@@ -1,12 +1,13 @@
 ##PS2 Form Helper for BITS Pilani
 
-This a tool which will help you fill the PS2 Preferences on the new BITS Pilani PSMS page. You need to sort the PS stations in Excel(Or any other spreadsheet software which supports csv files) using the given csv file which has Station IDs,Names, Stipend, Location,Disciplines etc as columns. Once sorted follow the steps below. The link to the csv file is also given below. I recommend using Chrome.
-This is a result of me losing my preferences multiple times in the "Drag and Drop Interface" provided by the PSMS site. I don't intend to damage or harm any systems. This script runs completely in the Users browser.
+This a tool which will help you fill the PS2 Preferences on the new BITS Pilani PSMS page. You will need to sort the PS stations in Excel(Or any other spreadsheet software which supports csv files) using the given csv file which has Station IDs,Names, Stipend, Location, Disciplines etc as columns. Once sorted follow the steps below. The link to the csv file is also given below. I recommend using Chrome.
+
 This has been tested to work fine on Chrome in Windows and Ubuntu.
 
 Built with contributions from Apoorv Umang.
 
 Thanks,
+
 Tarang Shah
 
 
@@ -35,8 +36,12 @@ javascript:(function(){function r(e,t,n){$.ajax({type:"POST",url:"StudentStation
 2. Login on the PSMS site and go to the preferences page
 3. Once the page loads completely, click on the previously created bookmark in your bookmarks bar
 4. You should see a text box and a button appear below the Save preferences button.
-5. Now copy the station id column from your sorted csv list and paste it into the text box. *Ensure that you dont copy the column title, and that your cursor ends on the last number and **NOT on a new line** *
-6. Each Station ID should be on a new line(default nature of a copy from excel)
+5. Now copy the Station Id column from your sorted csv list and paste it into the text box. 
+    *Ensure that you dont copy the column title, and that your cursor ends on the last number and NOT on a new line*
+6. Each Station ID should be on a **new line**(default nature of a copy from excel)
 7. Now click on the Submit button, all your acco fields will be ticked for you!
 8. You'll get a popup confirming the submission.
 9. Now refresh your preferences page and see the result!
+ 
+
+This project is a result of me losing my preferences multiple times in the "Drag and Drop Interface" provided by the PSMS site. I don't intend to damage or harm any systems. This script runs completely in the Users browser.
