@@ -28,12 +28,13 @@ javascript:(function(){
 	        dataType: "json",
 	        success: function (response) {
 	       	            alert("Station Preference Submitted Successfully");
+	       	            window.location.replace("FillProbBankSkills.aspx");
 	        }
 	    });
 
 	}
 	function submitprefs1(){
-		
+
 		var text1 = $('#prefOrder2').val();
 		alert(text1);
 	}
@@ -41,6 +42,10 @@ javascript:(function(){
 		var lines = $('#prefOrder2').val().split('\n');
 		jsondata="[";
 		var accomo=true;
+		if(lines.length!=312){
+			alert("Didnt find Exactly 312 stations!");
+			return;
+		}
 		for(var i = 0;i < lines.length;i++){
 			if(!(lines[i].match(/^\d+$/)))
 			{
@@ -57,7 +62,6 @@ javascript:(function(){
         jsondata += "]";
         var dummy = "";
 		var c = 0;
-		console.log(jsondata);
 		saveprefdata(jsondata, dummy, c);
 	}
 
@@ -73,12 +77,17 @@ javascript:(function(){
 			var textarea1=document.createElement("textarea");
 			textarea1.setAttribute("rows","2");
 			textarea1.setAttribute("id","prefOrder2");
+			if(document.getElementById("submitPrefs")==null)
+			{
+				document.getElementById("btnSave").parentNode.insertBefore(textarea1,null);
+				document.getElementById("btnSave").parentNode.insertBefore(submitbtn,null);
 
-			document.getElementById("btnSave").parentNode.insertBefore(textarea1,null);
-			document.getElementById("btnSave").parentNode.insertBefore(submitbtn,null);
+				document.getElementById("submitPrefs").onclick=pushPrefs;
+			}
+			else{
+				alert("You Only Click Once");
+			}
 
-			document.getElementById("submitPrefs").onclick=pushPrefs;
-			
 		})();
 	}
 })();
