@@ -1,6 +1,8 @@
 ##PS2 Form Helper for BITS Pilani
 
-This a tool which will help you fill the PS2 Preferences on the new BITS Pilani PSMS page. You will need to sort the PS stations in Excel(Or any other spreadsheet software which supports csv files) using the given csv file which has **Station IDs**,Names, Stipend, Location, Disciplines etc as columns. Please keep in mind that Station IDs are 2/3 digit numbers which are given in the csv file given here - [Problem Bank CSV](https://raw.githubusercontent.com/t27/ps2helper/master/ProbBankWithStationIDs.csv). 
+This a tool which will help you fill the PS2(Practice School 2) Preferences on the new BITS Pilani PSMS page. You will need to sort the PS stations in Excel(Or any other spreadsheet software which supports csv files) using the **given csv file** which has **Station IDs**,Names, Stipend, Location, Disciplines etc as columns.
+
+*Please keep in mind that Station IDs are 2/3 digit numbers which are given in the csv file given here - [Problem Bank CSV](https://raw.githubusercontent.com/t27/ps2helper/master/ProbBankWithStationIDs.csv).* 
 
 Once sorted follow the steps below. I recommend using Chrome.
 
@@ -47,5 +49,10 @@ To ensure you can update easily, I'll change the version number below everytime 
 8. You'll get a popup confirming the submission.
 9. Now refresh your preferences page and see the result!
  
+If you have any issues, you can use the comment threads on the following posts on facebook
 
-This project is a result of me losing my preferences multiple times in the "Drag and Drop Interface" provided by the PSMS site. I don't intend to damage or harm any systems. This script runs completely in the Users browser.
+https://www.facebook.com/tarang27/posts/10152390725672172
+
+https://www.facebook.com/groups/313194722097809/permalink/765073446909932/
+
+This project is a result of me losing my list of 312 sorted companies multiple times (sorted according to preference for the 6 month internship - Practice School 2(PS2)) due to the buggy "Drag and Drop Interface" provided in the PSMS(Practice School Management System) site by the PS Division. I don't intend to damage or harm any systems. This script runs completely in the Users browser.
