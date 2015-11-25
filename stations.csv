@@ -29,6 +29,7 @@ StationID,STATION NAME,LOCATION,INDUSTRY DOMAIN,STIPEND (UG),STIPEND (PG),NO. OF
 1058,Bundl Technologies Private Limited (Swiggy)(Bangalore),Bangalore,Fin&mgt,20000,0,1,"A7 , Any , H103"
 1319,CA Technologies(Bangalore),Bangalore,IT,25000,0,1,A7
 1070,Cadence Design Systems India Pvt Ltd.(Bangalore),Bangalore,Electronics  ,20000,0,1,"A3 , A8 , Any , H123"
+1325,Cadence Design Systems India Pvt Ltd.(Pune),Pune,Electronics  ,20000,0,1,"A3 , A8 , Any , H124"
 1265,CANON INDIA PRIVATE LIMITED(Bangalore),Bangalore,,10000,0,3,A7
 1246,Capital One(Bangalore),Bangalore,,50000,0,1,Any
 377,Centre for Artificial Intelligence & Robotics(Bangalore),Bangalore,Mechanical,0,0,13,"A3 , A4 , A7 , A8 , AA , Any , B1 , B2 , B3 , B4 , B5 , H103 , H106 , H112 , H123 , H124 , H140"

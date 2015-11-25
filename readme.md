@@ -1,10 +1,15 @@
-This is a updated version of Tarang Shah's script, (hence version 3)
-I have made changes to incorporate updated stations.
-
-Follow same rules as below
 
 
 ##PS2 Form Helper for BITS Pilani
+
+```
+This is a updated version of Tarang Shah's script. He is the rightful owner and this is mere adaption to work with current PS2 stations.
+This is not my original work.
+I have made changes to incorporate updated stations.
+
+Follow same rules as below
+```
+
 
 This a tool which will help you fill the PS2(Practice School 2) Preferences on the new BITS Pilani PSMS page. You will need to sort the PS stations in Excel(Or any other spreadsheet software which supports csv files) using the **given csv file** which has **Station IDs**,Names, Stipend, Location, Disciplines etc as columns.
 
