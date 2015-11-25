@@ -1,0 +1,368 @@
+StationID,STATION NAME,LOCATION,INDUSTRY DOMAIN,STIPEND (UG),STIPEND (PG),NO. OF PROJECT,PREFERRED DISCIPLINES
+1152,Arvind Mills(Ahmedabad),Ahmedabad,,10000,0,2,"A1 , AB , B3"
+599,SKF India Ltd.(Ahmedabad),Ahmedabad,Mechanical,8000,0,1,A4
+604,Skyquest Technology Consulting Pvt. Ltd.(Ahmedabad),Ahmedabad,Fin&mgt,5000,0,1,"Any , H108 , H146 , H147"
+1326,VMS (Vakil Mehta Seth) Consultants Private Limited(Ahmedabad),Ahmedabad,Infrastructure,0,6000,1,H143
+1227,"Toshniwal Industries Pvt. Ltd., Industrial (Ajmer)",Ajmer,,14000,0,1,A8
+600,Skoda Auto India Pvt. Ltd.(Aurangabad),Aurangabad,Mechanical,12000,14000,6,"A3 , A7 , Any , C6 , H149"
+463,[24]7 iLabs(Bangalore),Bangalore,IT,40000,0,4,"A1 , A3 , A7 , A8 , AA , Any , C6"
+1306,ABB (Bangalore),Bangalore,,25000,0,1,-
+321,Aditya Auto products & Engg (I) .P.Ltd. (Bangalore),Bangalore,Mechanical,12000,12000,1,"A3 , A4"
+762,Adobe Systems(Bangalore),Bangalore,IT,30000,0,1,A7
+1263,Affine Analytics Pvt. Ltd.(Bangalore),Bangalore,IT,15000,0,1,"A1 , A2 , A3 , A4 , A5 , A7 , A8 , AA , AB , C6 , H103 , H112"
+1069,Akira Consultancy Private Limited(Bangalore),Bangalore,Fin&mgt,20000,0,1,Any
+335,Altair Engineering India Pvt. Ltd.(Bangalore),Bangalore,Mechanical,15100,0,5,"A2 , A4 , A7 , C6"
+339,Amazon Development Center(Bangalore),Bangalore,IT,30000,0,1,"A7 , Any , C6"
+1223,Amazon- OPERATIONS(Bangalore),Bangalore,,30000,0,1,Any
+340,Analog Devices(Bangalore),Bangalore,Electronics  ,20000,0,8,"A3 , A7 , A8 , AA"
+348,ARM Embedded Technologies Private Limited(Bangalore),Bangalore,Electronics  ,20000,0,2,"A3 , A7 , A8 , AA , H103 , H123 , H140"
+1153,ARROW DEVICES(Bangalore),Bangalore,Electronics  ,12000,0,1,"A3 , AA"
+349,Aruba Networks(Bangalore),Bangalore,IT,25000,0,1,"A3 , A7 , AA"
+1215,Aurigo Software(Bangalore),Bangalore,IT,35000,30000,1,"A2 , A7 , H130 , H143 , H144"
+1137,Avaya India Private Limited(Bangalore),Bangalore,IT,18000,0,1,"A7 , C6 , H103 , H112"
+359,Beckman Coulter (formerly ReaMetrix India P Ltd)(Bangalore),Bangalore,Health Care,15000,0,1,"A1 , A5 , B1 , B2 , H129"
+754,belong.co(Bangalore),Bangalore,IT,20000,0,5,"A7 , Any , B4 , C6"
+815,Biocon(Bangalore),Bangalore,Health Care,7000,7000,2,"B1 , H108 , H129"
+364,Blue Jeans Network India Pvt. Ltd.(Bangalore),Bangalore,IT,50000,50000,1,"A3 , A7 , A8 , AA , B1 , B2 , B3 , B4 , B5 , C6"
+274,Bosch (Bangalore),Bangalore,Mechanical,0,15000,1,"A4 , H106 , H140 , H141 , H148"
+370,Broadcom India Pvt Ltd(Bangalore),Bangalore,Electronics  ,24000,0,1,"A3 , A7 , A8 , AA , Any , B1 , B2 , B3 , B4 , B5 , C6 , H124"
+1058,Bundl Technologies Private Limited (Swiggy)(Bangalore),Bangalore,Fin&mgt,20000,0,1,"A7 , Any , H103"
+1319,CA Technologies(Bangalore),Bangalore,IT,25000,0,1,A7
+1070,Cadence Design Systems India Pvt Ltd.(Bangalore),Bangalore,Electronics  ,20000,0,1,"A3 , A8 , Any , H123"
+1265,CANON INDIA PRIVATE LIMITED(Bangalore),Bangalore,,10000,0,3,A7
+1246,Capital One(Bangalore),Bangalore,,50000,0,1,Any
+377,Centre for Artificial Intelligence & Robotics(Bangalore),Bangalore,Mechanical,0,0,13,"A3 , A4 , A7 , A8 , AA , Any , B1 , B2 , B3 , B4 , B5 , H103 , H106 , H112 , H123 , H124 , H140"
+383,Cisco Systems (India) Pvt. Ltd.(Bangalore),Bangalore,Electronics  ,34000,44000,2,"A7 , AA , H103 , H112 , H124 , H140 , H149"
+1172,Cypress Semiconductor India Pvt Ltd. (Bangalore),Bangalore,,25000,25000,1,"H103 , H123 , H124 , H141 , H142"
+1232,Decisionresourcesgroup(Bangalore),Bangalore,Health Care,25000,25000,1,"A5 , H108 , H146"
+403,Dell R&D(Bangalore),Bangalore,IT,0,25000,1,-
+410,DreamWorks Animation(Bangalore),Bangalore,IT,35000,0,2,"A7 , Any , C6"
+412,EBay India Development Centre(Bangalore),Bangalore,IT,45000,0,1,"A7 , AA , C6"
+413,EMC(Bangalore),Bangalore,IT,25000,0,8,"A7 , Any , B1 , B2 , B3 , B4 , B5 , C6"
+415,Ericsson Global India Pvt. Ltd.(Bangalore),Bangalore,IT,20000,0,1,"A7 , Any , C6"
+1064,Exotel Techcom Pvt. Ltd.(Bangalore),Bangalore,IT,20000,0,1,"A3 , A7 , A8 , Any , C6"
+423,Fiber Link(Bangalore),Bangalore,IT,20000,30000,1,"A7 , B1 , B2 , B3 , B4 , B5 , H103 , H112"
+425,Fiorano Software Technologies Pvt. Ltd.(Bangalore),Bangalore,IT,20000,0,1,"A7 , Any , B4 , C6 , H103"
+1279,FireEye Cybersecurity Pvt. Ltd.(Bangalore),Bangalore,,25000,0,1,A7
+426,Flipkart Internet Services Pvt. Ltd(Bangalore),Bangalore,IT,25000,25000,1,"A3 , A7 , AA , Any , B4 , C6 , H103 , H112"
+262,Genpact(Bangalore),Bangalore,Fin&mgt,15000,15000,7,"A4 , A5 , A7 , AB , B1 , B3 , B4 , C6 , C7 , H106 , H142 , H149"
+440,Global Logic(Bangalore),Bangalore,IT,15000,0,1,"A7 , AA , C6"
+442,Goldman Sachs India Pvt. Ltd.(Bangalore),Bangalore,Fin&mgt,15500,0,2,"A1 , A2 , A3 , A4 , A5 , A7 , A8 , AA , AB , Any , B3 , B4 , B5 , C6 , H149"
+1229,Grofers (Bangalore),Bangalore,IT,40000,0,1,"A1 , A7 , C6"
+450,HILTI India Pvt. Ltd.(Bangalore),Bangalore,Fin&mgt,15000,0,1,"A2 , Any"
+647,Hindustan Unilever Research Centre(Bangalore),Bangalore,Chemical,20000,0,10,"A1 , B2 , B5"
+1228,HolidayIQ.com(Bangalore),Bangalore,,18000,25000,1,"Any , H149"
+773,HP India(Bangalore),Bangalore,IT,15000,0,1,"A3 , A7 , AA , C6"
+718,HSBC(Bangalore),Bangalore,Fin&mgt,22500,0,1,"B3 , C7 , H149"
+1322,IBM India Pvt Ltd(Bangalore),Bangalore,,0,0,1,"A3 , A7 , AA , H103 , H149"
+469,Infinera(Bangalore),Bangalore,IT,30000,0,3,"A3 , A7 , A8 , AA , Any , B4"
+1188,Informatica Business Solutions PVT. LTD. (Bangalore),Bangalore,,30000,0,8,A7
+720,ING Vysya Bank(Bangalore),Bangalore,Fin&mgt,15000,0,1,-
+1316,Ingersoll Rand India Ltd(Bangalore),Bangalore,,0,15000,2,"H106 , H141 , H148"
+472,InMobi(Bangalore),Bangalore,Fin&mgt,20000,25000,1,"A7 , Any , B3 , C6 , C7 , H149"
+475,Intel India Technology Pvt. Ltd.(Bangalore),Bangalore,Electronics  ,22000,0,22,"A3 , A7 , A8 , AA , B3 , B4 , B5 , C2 , C6 , H103 , H106 , H112 , H123 , H124 , H129 , H140"
+1283,IXIA(Bangalore),Bangalore,IT,17000,0,1,-
+1194,J P Morgan CIB-RFT(Bangalore),Bangalore,,60000,0,2,"A3 , A4 , A7 , C6"
+482,J.P. Morgan Chase(Bangalore),Bangalore,Fin&mgt,15000,0,1,"A1 , A2 , A3 , A4 , A5 , A7 , A8 , AA , AB , Any , B1 , B2 , B3 , B4 , B5 , C6 , C7"
+488,JDA Software Solutions(Bangalore),Bangalore,IT,18000,0,1,"A3 , A7 , A8 , AA , Any"
+436,John F Welch Technology Center (GE)(Bangalore),Bangalore,Mechanical,20000,22500,1,"A3 , A4 , A7 , A8 , AA , Any , B4 , B5 , H101 , H103 , H106 , H123 , H124 , H140 , H141 , H148"
+780,Khosla Labs(Bangalore),Bangalore,IT,15000,0,1,"A7 , Any , C6"
+495,KPMG(Bangalore),Bangalore,Fin&mgt,15000,0,1,"A1 , A3 , A4 , A7 , A8 , AA"
+1269,MABELCART(Bangalore),Bangalore,,25000,25000,1,Any
+1284,Madrat Games Pvt. Ltd.(Bangalore),Bangalore,,15000,0,1,"A3 , A7 , AA , C6"
+1275,MathWorks India Private Limited(Bangalore),Bangalore,,0,30000,1,"H103 , H123 , H124 , H140"
+514,Media Iq Digital(Bangalore),Bangalore,Fin&mgt,20000,0,2,"A1 , A2 , A3 , A4 , A7 , A8 , AA , AB , Any , B3 , B4"
+515,Mercedes Benz(Bangalore),Bangalore,Mechanical,12000,0,1,"A3 , A4 , A7 , H106"
+676,Myntra.com(Bangalore),Bangalore,IT,25000,0,1,"A3 , A7 , A8 , AA , C6"
+395,National Aerospace Laboratories(Bangalore),Bangalore,Mechanical,0,0,6,"A1 , A4 , B2 , B5"
+531,National Centre for Biological Sciences(Bangalore),Bangalore,Health Care,0,0,1,"A1 , Any , B1 , H129"
+534,National Entrepreneurship Network(Bangalore),Bangalore,Fin&mgt,15000,0,1,"A7 , Any"
+536,National Instruments Systems (India) Pvt. Ltd.(Bangalore),Bangalore,Electronics  ,20000,0,3,"A3 , A7 , A8 , AA , Any , H103 , H123 , H124 , H140"
+539,NetApp(Bangalore),Bangalore,IT,30000,35000,2,"A7 , AA , Any , C6 , H103 , H112"
+541,NetSkope Software India Pvt. Ltd.(Bangalore),Bangalore,IT,36000,36000,1,"A7 , C6"
+738,NextGen PMS Pvt. Ltd(Bangalore),Bangalore,Others,41000,0,2,"A7 , Any , C6"
+1247,Nokia Solutions and Networks Pvt Ltd(Bangalore),Bangalore,IT,30000,30000,1,"H103 , H124"
+550,Nutanix Technologies India Pvt. Ltd.(Bangalore),Bangalore,IT,65000,0,1,A7
+19,Nvidia Graphics(Bangalore),Bangalore,Electronics  ,25000,0,15,"A3 , A7 , A8 , AA , Any , C6 , H123 , H124"
+555,Oracle Financial Services Software Ltd. ( OFSS)(Bangalore),Bangalore,IT,25000,0,2,A7
+559,Oracle India Pvt Ltd.(Bangalore),Bangalore,IT,25000,0,12,"A3 , A7 , A8 , Any , B4 , B5 , C6 , H103"
+1252,PAYPAL(Bangalore),Bangalore,IT,50000,0,1,"A7 , AA"
+854,Philips Research India(Bangalore),Bangalore,Electronics  ,20000,0,1,"A3 , A7 , AA , C6"
+679,Polycom Technology (R&D) Centre Pvt. Ltd.(Bangalore),Bangalore,Electronics  ,15000,0,1,"A7 , AA , H103 , H112"
+571,Practo Technologies Pvt. Ltd.(Bangalore),Bangalore,Health Care,40000,0,1,"A7 , Any , C6 , H103"
+1294,Price waterhouse Coopers (PWC)(Bangalore),Bangalore,,25000,0,1,"A1 , B3"
+1237,Probe Equity Research                                          (Bangalore),Bangalore,Others,15000,0,1,Any
+1249,QUALCOMM INDIA PRIVATE LIMITED(Bangalore),Bangalore,,30000,3,1,"A7 , A8 , AA , H103 , H112 , H123 , H124 , H140"
+722,Qubole(Bangalore),Bangalore,IT,35000,0,1,"A7 , Any"
+1054,Rovi Corporation(Bangalore),Bangalore,Others,40000,0,1,"A7 , Any , C6"
+585,Sabre Holdings(Formely Sabre Travels)(Bangalore),Bangalore,IT,25000,0,18,"A3 , A7 , A8 , AA , Any , C6"
+1239,Samsung R &D Institute(Bangalore),Bangalore,IT,35000,0,1,"A7 , AA , H103 , H124"
+592,SAP Labs(Bangalore),Bangalore,IT,25000,0,3,"A7 , B4 , B5 , H103"
+1100,Sellerworx Online Services Limited(Bangalore),Bangalore,IT,15000,15000,1,"A7 , C6 , H103"
+595,Shell Technology Center(Bangalore),Bangalore,Chemical,20000,0,1,"A1 , A4 , A7 , B2"
+1262,SmartLivez(Bangalore),Bangalore,,25000,0,2,"A3 , A7 , A8 , AA , H140"
+1271,Smartlivez Technologies India Pvt. Ltd.(Bangalore),Bangalore,IT,25000,25000,2,"A3 , A7 , A8 , AA , H140"
+1162,SureWaves Media Tech Pvt Ltd(Bangalore),Bangalore,IT,27500,0,1,"A7 , Any"
+619,Symantec Software Solutions Pvt. Ltd.(Bangalore),Bangalore,IT,40000,40000,5,"A7 , AA , Any , C6 , H103"
+620,Syniverse Technologies(Bangalore),Bangalore,IT,18000,0,1,"A1 , A7"
+622,Tangoe India Softek Pvt Ltd(Bangalore),Bangalore,IT,25000,0,1,"A7 , C6"
+624,TAS Analytic Services(Bangalore),Bangalore,Fin&mgt,15500,0,1,"A1 , A2 , A3 , A4 , A7 , A8 , AA , AB , H149"
+1315,Tata Advanced Materials Ltd(Bangalore),Bangalore,,10000,0,1,"A1 , A4 , H101 , H106"
+635,Tejas Networks(Bangalore),Bangalore,IT,25000,0,1,"A4 , A7 , AA"
+638,TESCO Hindustan Service Centre(Bangalore),Bangalore,Fin&mgt,25000,0,1,"A1 , A2 , A3 , A4 , A7 , A8 , AA , AB , H149"
+640,Texas Instruments (I) Pvt. Ltd.(Bangalore),Bangalore,Electronics  ,25000,0,1,"A3 , A8 , AA , B5 , H103 , H112 , H123 , H124 , H140"
+1268,themeshapp(Bangalore),Bangalore,IT,25000,25000,1,"A7 , B4 , B5 , C6"
+1264,Think and learn(Bangalore),Bangalore,,40000,0,1,"A3 , A7 , A8 , Any"
+643,Tonbo Imaging Pvt Ltd.(Bangalore),Bangalore,Electronics  ,28000,0,3,"A3 , A4 , A7 , A8 , AA , Any"
+1168,TYCO International Ltd(Bangalore),Bangalore,Mechanical,0,12000,1,"A7 , H103 , H106"
+659,VMware Software India Pvt. Ltd.(Bangalore),Bangalore,IT,30000,0,1,"A7 , Any , C6"
+661,Walmart Global Technology Services(Bangalore),Bangalore,IT,30000,0,1,"A7 , B3 , B4 , H103"
+1270,"Xiaomi Technology India Private Limited,(Bangalore)",Bangalore,IT,25000,25000,1,Any
+1261,Zapluk(Bangalore),Bangalore,,15000,0,1,"B3 , C7 , H149"
+833,"Zinnov Management Consulting Pvt. Ltd., Bangalore(Bangalore)",Bangalore,Fin&mgt,15000,0,1,"A3 , A4 , A7 , A8 , Any , C6"
+668,Zoomcar India Pvt. Ltd.(Bangalore),Bangalore,IT,25000,0,3,"A3 , A7 , A8 , Any , B3 , B4 , C6 , C7"
+1118,Zynga Game Network India Pvt. Ltd.(Bangalore),Bangalore,IT,35000,0,1,A7
+1323,Guru Nanak Dev Thermal plant (Bathinda),Bathinda,,0,0,1,"A3 , A4 , A8"
+1165,VERVE CONSULTING PVT LTD(Bhubaneshwar),Bhubaneshwar,,10000,0,1,"A3 , Any , H149"
+1167,HERON – A Parexel Company(Chandigarh),Chandigarh,,0,15000,1,H108
+338,Amazon Development Center(Chennai),Chennai,IT,30000,0,2,"A7 , C6 , H103 , H112"
+1224,Amazon- OPERATIONS(Chennai),Chennai,,30000,0,1,Any
+673,Central Electronics Engineering Research Institute(Chennai),Chennai,Electronics  ,0,0,1,"A3 , A4 , A7 , A8 , AA , B1 , H123 , H129 , H140 , H141"
+672,Central Leather Research Institute (CLRI)(Chennai),Chennai,Chemical,0,0,1,"A1 , A2 , A3 , A4 , A5 , A8 , AA , AB , Any , B1 , B2 , B3 , B4 , B5 , H101"
+428,Frost & Sullivan(Chennai),Chennai,Fin&mgt,0,0,1,-
+1280,Gaia Consulting and Solutions Pvt Ltd                                                                                           (Chennai),Chennai,,10000,10000,1,H149
+448,Healthcare Technology Innovation Centre (HTIC)(Chennai),Chennai,Health Care,10000,12000,1,"A3 , A7 , A8 , Any"
+1290,Hospira Healthcare India Pvt Ltd(Chennai),Chennai,,0,0,1,-
+496,KPMG(Chennai),Chennai,Fin&mgt,15000,0,1,"A1 , A3 , A4 , A8 , AA , Any"
+1251,PAYPAL(Chennai),Chennai,IT,50000,0,1,"A7 , AA"
+1296,Price waterhouse Coopers (PWC)(Chennai),Chennai,,25000,0,1,"Any , B3"
+576,Ramco Systems(Chennai),Chennai,IT,25000,0,1,"A3 , A7 , A8 , C6"
+591,Sankara Nethralaya (Chennai),Chennai,Health Care,5000,0,1,"A3 , A7 , A8 , AA , Any , B1 , H129"
+1057,Stayzilla - Inasra Technologies(Chennai),Chennai,IT,35000,0,1,"A3 , A7 , A8 , Any , C6"
+616,Structural Engineering Research Centre(Chennai),Chennai,Infrastructure,0,0,1,"A2 , Any , B2 , H143 , H144"
+1267,SunEdison(Chennai),Chennai,,10000,10000,1,"A3 , A4 , H149"
+1292,VESTAS TECHNOLOGY LTD.(Chennai),Chennai,,0,0,1,H106
+1241,ZOHO corporation(Chennai),Chennai,Fin&mgt,18000,18000,2,H149
+466,Indian Institute of Petroleum(Dehradun),Dehradun,Chemical,2000,2000,1,"A1 , A4 , H129"
+1068,Amazon Development Center(Delhi),Delhi,IT,30000,0,1,"A7 , AA , Any , C6"
+1226,BIS Research Pvt. Ltd(Delhi),Delhi,,15000,0,1,"A5 , Any , H149"
+1197,ET MEDIALABS(Delhi),Delhi,,5000,0,1,-
+1297,Price waterhouse Coopers (PWC)(Delhi),Delhi,,25000,0,1,"Any , B3"
+1272,Quality Council of India (Delhi),Delhi,,25000,0,1,"A1 , A2 , A3 , A4 , A7 , A8 , AA , AB , B1 , B2 , B3 , B4 , B5"
+810,Tata Motors(Dharwad),Dharwad,Mechanical,18000,18000,1,"A3 , A4 , AA , AB"
+1238,CIPLA Ltd(Goa),Goa,Health Care,14000,14000,6,"A3 , H101 , H129 , H143"
+394,Crompton Grieves PPI adhesive products Ltd(Goa),Goa,Mechanical,0,0,1,-
+441,GMI Zarhak Moulders Pvt. Ltd.(Goa),Goa,Mechanical,5000,0,1,"A1 , A4"
+461,IFB Industries(Goa),Goa,Mechanical,15000,15000,6,"A3 , A4 , A8 , AA , B4 , B5 , H106 , H124 , H140 , H141"
+613,ST Microelectronics(I) Pvt.Ltd.(Greater Noida),Greater Noida,Electronics  ,18000,0,1,"A3 , A8 , AA"
+1225,Amazon- OPERATIONS(Gurgaon),Gurgaon,,30000,0,1,Any
+352,Aurum Equity Partners(Gurgaon),Gurgaon,Fin&mgt,15000,0,1,Any
+1059,Bundl Technologies Private Limited (Swiggy)(Gurgaon),Gurgaon,Fin&mgt,20000,0,1,Any
+1285,DB MUdra Group(Gurgaon),Gurgaon,,10000,10000,1,H149
+1245,Eko India Financial Services Private Limited (Gurgaon),Gurgaon,Others,10000,0,2,"A7 , C6 , H149"
+416,Ericsson Global India Pvt. Ltd.(Gurgaon),Gurgaon,IT,20000,0,1,"A1 , A7 , Any , C6"
+434,Gabrel India Ltd(Gurgaon),Gurgaon,Mechanical,0,0,2,A4
+264,Genpact(Gurgaon),Gurgaon,Fin&mgt,15000,15000,1,"B3 , C7 , H149"
+795,GlaxoSmithKline(Gurgaon),Gurgaon,Health Care,20000,20000,1,"H108 , H146 , H147"
+1231,Grofers (Gurgaon),Gurgaon,IT,40000,0,1,"A7 , Any"
+449,Hike(Gurgaon),Gurgaon,IT,30000,30000,1,"A7 , Any , C6"
+1312,Kinapse Ltd(Gurgaon),Gurgaon,,0,0,1,"B1 , H129 , H146 , H147 , H149"
+497,KPMG(Gurgaon),Gurgaon,Fin&mgt,15000,0,1,"A1 , A3 , A4 , A8 , AA"
+1083,Lama Capital Management(Gurgaon),Gurgaon,Fin&mgt,10000,10000,1,"A3 , A7 , A8 , AA , Any , B3 , C6 , C7"
+758,LEXINNOVA(Gurgaon),Gurgaon,Fin&mgt,20040,20040,2,"A3 , A7 , A8 , AA , Any , C6"
+509,Mahle Filters India Ltd(Gurgaon),Gurgaon,Mechanical,8000,0,4,"A4 , AB"
+1327,onlinetyari.com(Gurgaon),Gurgaon,,0,0,2,"A7 , Any"
+1192,Pluss Advanced Technologies Pvt. Ltd. (Gurgaon),Gurgaon,,12000,12000,1,"A1 , A4 , H148"
+580,Reckitt Benckiser(Gurgaon),Gurgaon,Fin&mgt,30000,0,1,"A7 , H103"
+1136,Skoda Auto India Pvt. Ltd.(Gurgaon),Gurgaon,Mechanical,12000,14000,1,-
+612,SRF Ltd.(Gurgaon),Gurgaon,Chemical,12000,0,2,A1
+627,Tata Consultancy Services(Gurgaon),Gurgaon,IT,10000,0,1,A1
+1158,Urban Clap(Gurgaon),Gurgaon,IT,50000,0,1,A7
+682,ZS Associates(Gurgaon),Gurgaon,Fin&mgt,25000,0,1,"A1 , A2 , A3 , A4 , A7 , A8 , AA , AB , Any , B2 , B3 , B4 , B5 , C2 , C6 , C7 , D2"
+429,Faiveley Transport Rail Technologies India Ltd (FTRTIL)(Hosur),Hosur,Mechanical,10000,0,1,"A4 , AB"
+433,Gabrel India Ltd(Hosur),Hosur,Mechanical,0,0,2,A4
+1248," Hyderabad Eye Research Foundation (HERF), the research arm of LV Prasad Eye Institute (Hyderabad)",Hyderabad,Health Care,0,0,1,"B1 , H108 , H129 , H146 , H147"
+724,Adaequre(Hyderabad),Hyderabad,IT,15000,0,1,"A2 , A3 , A4 , A7 , A8 , AA , AB"
+337,Amazon Development Center(Hyderabad),Hyderabad,IT,30000,0,1,A7
+1222,Amazon- OPERATIONS(Hyderabad),Hyderabad,,30000,0,1,Any
+101,BHARAT DYNAMICS LTD(Hyderabad),Hyderabad,Mechanical,5000,0,1,"A3 , A4 , A7 , AA"
+371,Broadcom India Pvt Ltd(Hyderabad),Hyderabad,Electronics  ,24000,0,1,"A3 , A8"
+1061,Bundl Technologies Private Limited (Swiggy)(Hyderabad),Hyderabad,Fin&mgt,20000,0,1,"A3 , A4 , A7 , Any"
+373,CA Technologies(Hyderabad),Hyderabad,IT,25000,0,1,"A3 , A7 , C6"
+379,Centre for DNA Fingerprinting and Diagnostics(Hyderabad),Hyderabad,Health Care,0,0,1,"B1 , H129"
+700,Cognitive Scale(Hyderabad),Hyderabad,IT,30000,30000,1,"A7 , H103"
+1328,Dr Reddys Laboratories(Hyderabad),Hyderabad,,0,0,1,"A1 , A3 , A4 , A5 , A8 , H146 , H147"
+1139,Dupont Knowledge Center(Hyderabad),Hyderabad,Chemical,20000,0,2,"A1 , A7 , B1 , C6 , H148"
+1276,Endless Robotics Pvt. Ltd.(Hyderabad),Hyderabad,,5000,0,1,"A3 , A4 , A7 , A8 , C6"
+424,Fiorano Software Technologies Pvt. Ltd.(Hyderabad),Hyderabad,IT,20000,0,1,"A7 , Any , B1 , B2 , B3 , B4 , B5 , C6"
+1213,Freescale Semiconductor India Pvt. Ltd. (Hyderabad),Hyderabad,,20000,0,1,"A7 , AA"
+263,Genpact(Hyderabad),Hyderabad,Fin&mgt,15000,15000,1,Any
+1190,Golden Hills Capital India Private Limited(Hyderabad),Hyderabad,Fin&mgt,30000,0,1,"A7 , B3 , C7"
+1310,HBL Power Systems Ltd.(Hyderabad),Hyderabad,,20000,20000,1,"A3 , H140"
+464,IMI Mobile(Hyderabad),Hyderabad,IT,18000,0,4,"A3 , A7 , A8 , AA , Any , C6"
+465,Indian Institute of Chemical Technology(Hyderabad),Hyderabad,Chemical,0,0,5,A1
+1071,InsideView Technologies (India) Pvt. Ltd.(Hyderabad),Hyderabad,IT,35000,0,1,"A7 , Any , C6"
+476,International Advanced Research Centre for Powder Metallurgy and New Materials(Hyderabad),Hyderabad,Mechanical,0,0,1,"A1 , A3 , A4 , A8 , AA , B2"
+489,JDA Software Solutions(Hyderabad),Hyderabad,IT,18000,0,1,Any
+437,John F Welch Technology Center (GE)(Hyderabad),Hyderabad,Mechanical,20000,0,1,"A4 , A7 , A8 , AA , H101 , H103 , H106 , H123 , H124 , H140 , H141 , H148"
+498,KPMG(Hyderabad),Hyderabad,Fin&mgt,0,0,1,Any
+1304,Microsoft (Hyderabad),Hyderabad,,35000,0,1,A7
+1066,Mordor Intelligence(Hyderabad),Hyderabad,Fin&mgt,14000,0,1,"A1 , Any , B2"
+529,My smart price(Hyderabad),Hyderabad,Others,25000,0,1,Any
+1293,Nant Health Technologies India Private Limited(Hyderabad),Hyderabad,,30000,0,1,"A3 , A7 , A8 , AA"
+1234,Novartis(Hyderabad),Hyderabad,Health Care,14000,0,1,"A7 , C6"
+552,Nvidia Graphics(Hyderabad),Hyderabad,Electronics  ,25000,0,1,"A3 , A7 , AA , C6 , H112 , H140"
+557,Oracle India Pvt Ltd.(Hyderabad),Hyderabad,IT,25000,0,3,"A7 , C6 , H103"
+570,Polycom Technology (R&D) Centre Pvt. Ltd.(Hyderabad),Hyderabad,Electronics  ,15000,0,1,"A7 , AA , B4 , C6"
+1295,Price waterhouse Coopers (PWC)(Hyderabad),Hyderabad,,25000,0,1,"Any , B3"
+1151,PURPLE TALK(Hyderabad),Hyderabad,IT,15000,0,3,A7
+1250,QUALCOMM INDIA PRIVATE LIMITED(Hyderabad),Hyderabad,,30000,3,1,"A7 , A8 , AA , H124"
+1154,Red Pine Signals(Hyderabad),Hyderabad,Electronics  ,0,20000,1,H123
+587,Salesforce(Hyderabad),Hyderabad,IT,25000,0,1,A7
+597,Silicon Image R&D Pvt Ltd(Hyderabad),Hyderabad,Electronics  ,20000,0,1,"A3 , A7 , AA"
+734,Smartrak(Hyderabad),Hyderabad,Electronics  ,20000,0,6,"A2 , A3 , A4 , A8 , AA , H106 , H123 , H124 , H140 , H141 , H143 , H144"
+1113,Stellar Software Technologies Pvt Ltd(Hyderabad),Hyderabad,IT,10000,0,1,"A3 , A7"
+1309,think3D(Hyderabad),Hyderabad,,12000,0,3,"A4 , A7"
+1260,UTC India(Hyderabad),Hyderabad,,25000,25000,1,"H103 , H123 , H124"
+666,Worley Parsons India(Hyderabad),Hyderabad,Infrastructure,16000,0,2,"A1 , A2 , A3 , A4 , A8 , Any"
+1301,YUPPTV(Hyderabad),Hyderabad,,25000,0,1,"A7 , C6"
+1191,Angara Ecommerce Pvt. Ltd.(Jaipur),Jaipur,IT,40000,0,1,A7
+725,CEG Limited(Jaipur),Jaipur,Infrastructure,10000,0,1,"H130 , H143 , H144"
+538,NBC Bearings(Jaipur),Jaipur,Mechanical,0,0,1,H141
+1164,RAJPUTANA CONSTRUCTIONS(Jaipur),Jaipur,Infrastructure,15000,0,1,A2
+615,Stellarix Consultancy Services Pvt Ltd(Jaipur),Jaipur,Fin&mgt,10000,0,1,"A1 , A3 , A4 , A5 , A7 , AA , AB , Any , B3 , H129"
+807,Tata Motors(Jamshedpur),Jamshedpur,Mechanical,18000,18000,1,"A4 , AB , Any"
+1307,MAQ Software(JHABUA),JHABUA,,20000,0,1,"A7 , C6 , H103 , H112"
+609,Spicer India Ltd.(Jodalli),Jodalli,Mechanical,8000,0,2,A4
+408,Development Consultants  Pvt. Ltd. (DCPL)(Kolkata),Kolkata,Infrastructure,9000,0,1,A2
+1170,"HedgeQuants Capital Advisory, LLP(Kolkata)",Kolkata,IT,50000,50000,1,"A7 , C6 , H103 , H112"
+499,KPMG(Kolkata),Kolkata,Fin&mgt,15000,0,1,Any
+149,Tega Industries(Kolkata),Kolkata,Mechanical,15000,15000,2,"AB , H142"
+150,Texmaco Ltd.(Kolkata),Kolkata,Mechanical,3000,0,2,"A4 , H142"
+1096,Grasim Industries Ltd.(Kumarapatnam),Kumarapatnam,Chemical,5000,0,4,"A1 , Any"
+808,Tata Motors(Lucknow),Lucknow,Mechanical,18000,18000,1,"A4 , AB"
+1216,Oniosome Healthcare Pvt. Ltd. (Mohali),Mohali,Health Care,7000,7000,1,H108
+1196, UPGRAD(Mumbai),Mumbai,IT,25000,0,3,"A7 , Any , C6"
+322,Aditya Birla Corporate IT(Mumbai),Mumbai,IT,15000,0,3,"A7 , Any , C6 , H101 , H103 , H106 , H112 , H123 , H124 , H129 , H130 , H132 , H140 , H141 , H142 , H143 , H144 , H148 , H149"
+323,Aditya Birla Corporate World Class Manufacturing(Mumbai),Mumbai,Mechanical,8500,0,1,"A1 , A4 , AB , H142 , H149"
+328,Aditya Birla Science & Technology Company Ltd.(Mumbai),Mumbai,Chemical,8500,0,1,"A1 , A4 , B2 , H101"
+1156,Admat Innovations(Mumbai),Mumbai,Chemical,17500,0,2,"A1 , Any , B2"
+730,Barclays(Mumbai),Mumbai,Fin&mgt,25000,0,1,"B3 , C7 , H149"
+1060,Bundl Technologies Private Limited (Swiggy)(Mumbai),Mumbai,Fin&mgt,20000,0,1,Any
+374,Carwale (Automotive  Exchange Pvt. Ltd.)(Mumbai),Mumbai,IT,15000,0,1,"A3 , A7 , A8 , AA , B4 , C6"
+166,Century Rayon(Mumbai),Mumbai,Chemical,6000,0,1,A1
+392,Credit Suisse(Mumbai),Mumbai,Fin&mgt,25000,0,42,"A1 , A2 , A3 , A4 , A5 , A7 , A8 , AA , AB , Any , B1 , B2 , B3 , B4 , B5 , C2 , C6 , C7 , D2"
+1254,Cross Analytics Solutions Pvt Ltd.(Mumbai),Mumbai,,30000,0,1,"A7 , A8"
+402,DBOI (Deutsche Bank)(Mumbai),Mumbai,Fin&mgt,15000,0,3,"A1 , A2 , A3 , A7 , A8 , AA , AB , Any , B3 , B4 , B5 , C6 , C7"
+407,Development Consultants  Pvt. Ltd. (DCPL)(Mumbai),Mumbai,Infrastructure,8000,0,1,"A2 , Any , B2 , B4"
+1129,"Dorsch Consult (India) Pvt. Ltd.,(Mumbai)",Mumbai,Infrastructure,12000,0,1,"Any , H144"
+783,Exponentia data(Mumbai),Mumbai,IT,25000,0,1,Any
+438,Geometric Limited(Mumbai),Mumbai,Mechanical,12000,0,1,"A4 , AB , Any"
+1171,HDFC Bank(Mumbai),Mumbai,Fin&mgt,15000,0,6,"A7 , B3 , B4 , C6 , H149"
+1288,HENKEL(Mumbai),Mumbai,,0,0,1,-
+544,Here Maps - A Nokia Company(Mumbai),Mumbai,IT,20000,0,3,"A3 , A7 , A8 , AA , Any , C6 , H103 , H112"
+451,HILTI India Pvt. Ltd.(Mumbai),Mumbai,Fin&mgt,15000,0,1,A2
+1313,Holachef Hospitality Pvt. Ltd(Mumbai),Mumbai,,15000,0,2,"A7 , H149"
+455,Hourglass Research(Mumbai),Mumbai,Electronics  ,15000,0,1,"A3 , A7 , A8 , Any , C6"
+731,Housing.com (Locon Solutions Private Limited)(Mumbai),Mumbai,IT,45000,0,7,"A1 , A2 , A3 , A4 , A7 , A8 , AA , AB , Any , B1 , B2 , B3 , B4 , B5 , C2 , C6 , C7 , D2"
+478,IPCA Laboratories Ltd.(Mumbai),Mumbai,Health Care,0,0,1,H129
+1189,J P MORGAN -CIB(Mumbai),Mumbai,,60000,0,1,A7
+484,J.P. Morgan Chase(Mumbai),Mumbai,Fin&mgt,15000,0,1,"A1 , A2 , A3 , A4 , A5 , A7 , A8 , AA , AB , Any , B1 , B2 , B3 , B4 , B5 , C6 , C7"
+483,J.P. Morgan Services India Pvt. Ltd(Mumbai),Mumbai,Fin&mgt,30000,0,3,"A1 , A2 , A3 , A4 , A5 , A7 , A8 , AA , AB , Any , B1 , B2 , B3 , B4 , B5 , C2 , C6 , C7"
+818,John F Welch Technology Center (GE)(Mumbai),Mumbai,Mechanical,0,0,1,"A4 , A7 , A8 , AA , H101 , H103 , H106 , H123 , H124 , H140 , H141 , H148"
+500,KPMG(Mumbai),Mumbai,Fin&mgt,15000,0,1,"A1 , A3 , A4 , A7 , A8 , AA , C6"
+743,L&T Infotech(Mumbai),Mumbai,IT,15000,0,1,"A7 , Any , C6"
+1281,LogicRoots Pvt. Ltd.(Mumbai),Mumbai,,35000,0,3,"A7 , C6 , H149"
+513,Mayuresh Group(Mumbai),Mumbai,Infrastructure,10000,0,1,"A1 , A2 , A3 , A7 , A8 , AA , C6"
+519,Morningstar(Mumbai),Mumbai,Fin&mgt,30000,0,5,"A1 , A7 , AA , B3 , B4 , C6 , C7"
+521,MSCI Bara Client Services(Mumbai),Mumbai,IT,25000,0,1,"A7 , Any , B3 , B5 , C6 , C7"
+522,"MSCI Barra, Data Management(Mumbai)",Mumbai,Fin&mgt,25000,0,1,"A7 , Any , B3"
+523,"MSCI Barra, Quantitative Equity Research(Mumbai)",Mumbai,Fin&mgt,40000,0,1,"A1 , A2 , A3 , A7 , A8 , AA , B3 , C6 , C7"
+524,MSCI Financial Planning & Analysis(Mumbai),Mumbai,Fin&mgt,30000,0,1,A7
+525,MSCI Index and Research(Mumbai),Mumbai,Fin&mgt,30000,0,1,"A3 , A7 , A8 , B3 , B4 , C7"
+526,MSCI Technology & Development(Mumbai),Mumbai,Fin&mgt,25000,0,1,-
+1138,Nomura Services India Pvt (Mumbai),Mumbai,Fin&mgt,35000,0,5,"Any , B3 , B4"
+556,Oracle Financial Services Software Ltd. ( OFSS)(Mumbai),Mumbai,IT,25000,0,2,"A7 , AA"
+1298,Price waterhouse Coopers (PWC)(Mumbai),Mumbai,,25000,0,1,"Any , B3"
+601,Skoda Auto India Pvt. Ltd.(Mumbai),Mumbai,Mechanical,14000,0,5,"A4 , AB , H149"
+1317,Skumars Online(Mumbai),Mumbai,,10000,0,1,"A2 , B2"
+829,Tata Motors(Mumbai),Mumbai,Mechanical,0,0,1,"A4 , AB , Any"
+1289,TATA POWERS(Mumbai),Mumbai,,5000,0,2,"A3 , A4 , B4"
+813,VMS (Vakil Mehta Seth) Consultants Private Limited(Mumbai),Mumbai,Infrastructure,8000,0,1,"A2 , H143"
+665,Worley Parsons India(Mumbai),Mumbai,Infrastructure,19000,0,2,"A1 , A2 , A3 , A4 , A8"
+1302,Zimmber(Mumbai),Mumbai,,25000,0,2,"A7 , C6"
+444,Grasim Chemicals(Nagda),Nagda,Chemical,0,0,1,"A1 , A3 , A4 , A7 , Any , C6"
+445,Grasim Industries Ltd.(Nagda),Nagda,Chemical,5000,0,2,A1
+193,Global Logic(Nagpur),Nagpur,IT,15000,0,1,"A7 , Any , C6"
+706,Metalfab Hightech Pvt. Ltd.(Nagpur),Nagpur,Mechanical,7500,0,1,"A7 , C6"
+196,Techture Structures Pvt Ltd.(Nagpur),Nagpur,Infrastructure,5000,0,3,"A2 , A4 , A7 , Any , H149"
+376,Central Road Research Institute(New Delhi),New Delhi,Infrastructure,0,0,1,"A2 , Any , H130"
+446,Grey Orange Robotics Pvt. Ltd.(New Delhi),New Delhi,Mechanical,25000,0,3,"A3 , A4 , A7 , A8 , C6"
+452,HILTI India Pvt. Ltd.(New Delhi),New Delhi,Fin&mgt,15000,0,1,"A2 , A3 , A4"
+769,LEA Associates(New Delhi),New Delhi,Infrastructure,8000,10000,1,"A2 , Any , H130 , H143 , H144"
+532,National Council of Applied Economic Research(New Delhi),New Delhi,Fin&mgt,6500,0,2,B3
+535,National Institute of Science and Tech. Dev. Studies (NISTADS)(New Delhi),New Delhi,Others,3000,0,2,"A7 , Any , B3 , C6"
+652,Value Edge India(New Delhi),New Delhi,Health Care,15000,0,1,"A3 , A5 , A8 , H108 , H146 , H147"
+1233,Adobe Systems(Noida),Noida,IT,40000,0,1,A7
+1123,ARM Embedded Technologies Private Limited(Noida),Noida,Electronics  ,20000,0,1,"A3 , A7 , A8 , AA , Any , C2 , C6 , H123"
+757,Barclays(Noida),Noida,Fin&mgt,25000,0,1,"B3 , H149"
+1150,EDCIL INDIA LTD(Noida),Noida,,10000,0,1,"A2 , A3 , A7 , H149"
+439,Global Logic(Noida),Noida,IT,15000,0,1,"A1 , A7"
+1287,Mount Talent Consulting(Noida),Noida,,0,10000,1,H149
+554,Opera Solutions(Noida),Noida,IT,40000,0,1,"A7 , Any , C6"
+816,Tolexo Online Pvt Ltd(Noida),Noida,Fin&mgt,0,20000,1,"H129 , H149"
+608,Spicer India Ltd.(Pantnagar),Pantnagar,Mechanical,8000,0,1,-
+809,Tata Motors(Pantnagar),Pantnagar,Mechanical,0,0,1,"A4 , A8 , AB , Any"
+431,Gabrel India Ltd(Parwanoo),Parwanoo,Mechanical,0,0,1,A4
+510,Mahle Filters India Ltd(Parwanoo),Parwanoo,Mechanical,0,0,1,-
+674,Central Electronics Engineering Research Institute(Pilani),Pilani,Electronics  ,8000,0,5,"A3 , A4 , A7 , A8 , AA , B5"
+1081,AFour Technologies(Pune),Pune,IT,20000,0,1,"A1 , A2 , A3 , A4 , A5 , A7 , A8 , AA , C6"
+1242,Alfa Laval (India) Limited(Pune),Pune,,5000,5000,1,"A1 , A4 , A7 , H101 , H103 , H106"
+355,Avaya India Private Limited(Pune),Pune,IT,18000,0,1,"A3 , A7 , A8 , AA , C6 , H103 , H112"
+357,B.G.Shirke Construction Technology Pvt. Ltd.(Pune),Pune,Infrastructure,9000,0,1,"A2 , H143 , H144"
+360,Behr India Ltd(Pune),Pune,Mechanical,8000,0,1,A4
+755,Bentley Systems India Pvt Ltd(Pune),Pune,IT,18000,0,1,"A1 , A3 , A7 , A8 , AA , C6 , H103 , H112"
+212,Bharat Forge Ltd(Pune),Pune,Mechanical,5000,0,2,"A4 , AB , Any , B5 , H106 , H141 , H142"
+1214,Bit Mapper(Pune),Pune,,5000,5000,1,"A3 , A4 , H106 , H123 , H140"
+393,Credit Suisse(Pune),Pune,Fin&mgt,25000,0,39,"A1 , A2 , A3 , A4 , A5 , A7 , A8 , AB , Any , B1 , B2 , B3 , B4 , B5 , C2 , C6 , C7 , D2 , H149"
+1112,Divgi Metalwares Pvt. Ltd. (Pune),Pune,Mechanical,10500,0,1,"A4 , AB , Any"
+215,Divgi Warner Pvt Ltd(Pune),Pune,Mechanical,10000,0,3,"A4 , AB , H149"
+411,Eaton Technologies(Pune),Pune,Mechanical,10500,0,1,A4
+430,Gabrel India Ltd(Pune),Pune,Mechanical,8000,0,1,A4
+460,IDeaS - SAS(Pune),Pune,IT,25000,0,1,"A1 , A7 , A8 , AA , Any , C6"
+1084,Intel India Technology Pvt. Ltd.(Pune),Pune,Electronics  ,22000,0,1,"A3 , A7 , B4 , B5 , C2 , C6"
+693,Lupin Pharma(Pune),Pune,Health Care,0,0,1,H146
+1305,Mahle Beher India Pvt Ltd(Pune),Pune,Mechanical,0,0,2,A4
+511,Mahle Filters India Ltd(Pune),Pune,Mechanical,8000,0,1,A1
+308,National Chemical Laboratory(Pune),Pune,Chemical,0,0,1,"A1 , A3 , A4 , A7 , A8 , AA , B2 , B5 , H101"
+551,Nvidia Graphics(Pune),Pune,Electronics  ,25000,0,3,"A1 , A7 , A8 , AA , Any , C6 , H103 , H112 , H140"
+581,Reflexis Systems India Pvt Ltd.(Pune),Pune,IT,20000,0,1,Any
+1266,SG Analytics(Pune),Pune,Health Care,15000,15000,1,"H108 , H129"
+293,SKF India Ltd.(Pune),Pune,Mechanical,6000,0,1,"A4 , AB , H106 , H142"
+602,Skoda Auto India Pvt. Ltd. (Chakan)(Pune),Pune,Mechanical,12000,0,1,"A1 , Any , H106 , H149"
+1063,Sokrati Technologies Pvt. Ltd.(Pune),Pune,IT,20000,0,1,"A7 , Any , C6"
+610,Spicer India Ltd.(Pune),Pune,Mechanical,8000,0,1,-
+1230,Symantec Software Solutions Pvt. Ltd.(Pune),Pune,IT,40000,40000,2,"A7 , AA , Any , C6"
+625,Tata Autocomp Systems Ltd.(Pune),Pune,Mechanical,12000,0,2,A4
+821,Tata Chemical Innovation Center(Pune),Pune,Chemical,10000,0,1,"A1 , B1 , B2 , B5 , H101 , H129"
+630,Tata Motors(Pune),Pune,Mechanical,12000,0,1,"A3 , A4 , A7 , A8 , AA , AB , C6"
+631,Tata Technologies(Pune),Pune,Mechanical,12000,0,1,-
+637,Tensilica(Pune),Pune,Electronics  ,18000,0,1,"A3 , A8 , AA , Any"
+222,Thermax India(Pune),Pune,Mechanical,5000,0,1,"A4 , H106"
+1274,Trinamix Systems Pvt. Ltd. (Pune),Pune,IT,15000,0,1,"A4 , A7 , AA"
+658,VMware Software India Pvt. Ltd.(Pune),Pune,IT,30000,0,1,A7
+669,ZS Associates(Pune),Pune,Fin&mgt,25000,0,2,"A1 , A2 , A3 , A4 , A7 , A8 , AA , AB , Any , B2 , B3 , B4 , B5 , C2 , C6 , C7 , D2"
+375,Central Building Research Institute(Roorkee),Roorkee,Infrastructure,4000,0,2,"A2 , Any"
+811,Tata Motors(Sanand),Sanand,Mechanical,0,0,1,"A4 , AB"
+611,Spicer India Ltd.(Satara),Satara,Mechanical,8000,0,2,A4
+279,Divgi Warner Pvt Ltd(Sirsi),Sirsi,Mechanical,10000,0,1,"A4 , AB , Any"
+320,Ace Business and Market Research Group(Surat),Surat,Fin&mgt,10000,0,1,"A5 , Any , B1 , C6 , H108 , H149"
+675,Aditya Birla Chemicals(Thailand)Ltd-Sulphites(Thailand),Thailand,Chemical,5000,5000,1,"A1 , A4 , AB , Any"
+243,Centre For Development Of Imaging Technology (Trivandrum),Trivandrum,IT,5000,0,1,"A3 , A7 , A8 , AA , Any , B4 , C6"
+493,Klientas(Trivandrum),Trivandrum,Fin&mgt,12500,0,1,Any
+711,Leap Consulting(Trivandrum),Trivandrum,IT,5000,0,1,Any
+558,Oracle India Pvt Ltd.(Trivandrum),Trivandrum,IT,0,0,1,"A1 , A7"
+1243,Knox Payments(USA),USA,,0,500,1,H149
+1115,Atul Ltd.(Valsad),Valsad,Chemical,6000,6000,2,"A1 , A3 , A4 , A8"
+1321,Vijaynirman Co Pvt Ltd(Vijayawada),Vijayawada,,0,0,1,A2
+250,Jsw Steel(Vijaynagar),Vijaynagar,Mechanical,5000,0,1,"A1 , A4"
