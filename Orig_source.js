@@ -42,8 +42,8 @@ javascript:(function(){
 		var lines = $('#prefOrder2').val().split('\n');
 		jsondata="[";
 		var accomo=true;
-		if(lines.length!=312){
-			alert("Didnt find Exactly 312 stations!");
+		if(lines.length!=368){
+			alert("Didnt find Exactly 368 stations!");
 			return;
 		}
 		for(var i = 0;i < lines.length;i++){
