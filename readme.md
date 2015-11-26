@@ -1,5 +1,8 @@
 ##PS2 Form Helper for BITS Pilani
 
+
+*This version is for the PS2 during Jan-June 2015, a new updated version of this script is available at https://github.com/nikhilmotiani/HelpPS2 for the 2016 Jan-jun session*
+
 This a tool which will help you fill the PS2(Practice School 2) Preferences on the new BITS Pilani PSMS page. You will need to sort the PS stations in Excel(Or any other spreadsheet software which supports csv files) using the **given csv file** which has **Station IDs**,Names, Stipend, Location, Disciplines etc as columns.
 
 *Please keep in mind that Station IDs are 2/3 digit numbers which are given in the csv file given here - [Problem Bank CSV](https://raw.githubusercontent.com/t27/ps2helper/master/ProbBankWithStationIDs.csv).* 
